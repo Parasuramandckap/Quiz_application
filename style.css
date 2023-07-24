@@ -1,0 +1,76 @@
+.quizz {
+    width: 680px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    border: 2px solid #363c52;
+}
+
+body {
+    background-color: #f5c2c2;
+}
+.output{
+    font-size:20px;
+    font-weight: 600;
+}
+
+.questions {
+    margin-left: 33%;
+    padding-top: 10px;
+}
+
+.btns {
+    margin-top: 30px;
+}
+.display{
+    font-weight: 600;
+    font-size: 20px;
+}
+.ans-btn {
+    border: 2px solid #0cabe9;
+    background: white;
+    width: 20%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.prv-btn {
+    border: 2px solid #0cabe9;
+    background: white;
+    width: 20%;
+    height: 30px;
+    border-radius: 5px;
+}
+.Next-btn{
+    border: 2px solid #0cabe9;
+    background: white;
+    width: 20%;
+    height: 30px;
+    border-radius: 5px;
+}
+.submit{
+    border: 2px solid #0cabe9;
+    background: white;
+    width: 20%;
+    height: 30px;
+    border-radius: 5px;
+}
+.output{
+    margin-left:20%;
+}
+.complete{
+    position: absolute;
+    top: 200px;
+    left: 615px;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: brown;
+}
